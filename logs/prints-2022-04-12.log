@@ -1,0 +1,6 @@
+16:24:04.862 [main] INFO  test.PreferanceTest1 - edit preferenced passed
+16:24:24.413 [main] INFO  test.PreferenceTest2 - Preference Page Line Method - Assert the text line 1
+16:24:24.476 [main] INFO  test.PreferenceTest2 - Preference Page Line Method - Assert the text line 2
+16:24:24.529 [main] INFO  test.PreferenceTest2 - Preference Page Line Method - Assert the text line 3
+16:24:44.767 [main] INFO  test.PreferanceTest3 - Data Driven Test - Launched the application
+16:24:47.491 [main] INFO  test.PreferanceTest3 - Data Driven Test - Enter the Value in the edittext preference textbox 

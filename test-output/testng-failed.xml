@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="none" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="Utils.Listeners"/>
+    <listener class-name="Utils.ExtentReport"/>
+  </listeners>
+  <test parallel="none" name="Test(failed)">
+    <classes>
+      <class name="test.PreferanceTest1">
+        <methods>
+          <include name="launchApp"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- test.PreferanceTest1 -->
+      <class name="test.PreferenceTest2">
+        <methods>
+          <include name="launchServer"/>
+          <include name="preferencePageLine3"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- test.PreferenceTest2 -->
+      <class name="test.PreferanceTest3">
+        <methods>
+          <include name="launchApp"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- test.PreferanceTest3 -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

@@ -1,0 +1,4 @@
+16:24:53.383 [main] INFO  test.PreferanceTest3 - Data Driven Test - Assert the value in the  edittext preference textbox 
+16:25:12.709 [main] INFO  test.PreferanceTest3 - Data Driven Test - Launched the application
+16:25:15.553 [main] INFO  test.PreferanceTest3 - Data Driven Test - Enter the Value in the edittext preference textbox 
+16:25:21.677 [main] INFO  test.PreferanceTest3 - Data Driven Test - Assert the value in the  edittext preference textbox 
